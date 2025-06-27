@@ -34,5 +34,5 @@ This repository contains all scripts, queries, and documentation for **AWS Lab 1
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure.
 
